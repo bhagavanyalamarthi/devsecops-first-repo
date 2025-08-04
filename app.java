@@ -10,3 +10,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
  system.out.println(this new data java added" }
 }
+test datacheck for public 
